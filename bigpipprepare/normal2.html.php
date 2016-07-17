@@ -1,0 +1,1 @@
+        <div class="part2">2. <?php echo $var2;?></div>
